@@ -13,3 +13,4 @@ Day 08 | Binary_Tree_Zigzag_Level_Order_Traversal | [Link](https://github.com/Su
 Day 09 | Vertical_Order_Traversal_of_a_Binary_Tree | [Link](https://github.com/Subha822/Strivers_SDE_Sheet/blob/main/LeetCode/Hard/Vertical_Order_Traversal_of_a_Binary_Tree.py)
 Day 10 | Same_Tree | [Link](https://github.com/Subha822/Strivers_SDE_Sheet/blob/main/LeetCode/Easy/Same_Tree.py)
 Day 11 | Binary_Tree_Inorder_Traversal | [Link](https://github.com/Subha822/Strivers_SDE_Sheet/blob/main/LeetCode/Easy/Binary_Tree_Inorder_Traversal.py)
+Day 12 | Binary_Tree_Preorder_Traversal | [Link](https://github.com/Subha822/Strivers_SDE_Sheet/blob/main/LeetCode/Easy/Binary_Tree_Preorder_Traversal.py)
