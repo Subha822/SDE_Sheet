@@ -15,3 +15,4 @@ Day 10 | Same_Tree | [Link](https://github.com/Subha822/Strivers_SDE_Sheet/blob/
 Day 11 | Binary_Tree_Inorder_Traversal | [Link](https://github.com/Subha822/Strivers_SDE_Sheet/blob/main/LeetCode/Easy/Binary_Tree_Inorder_Traversal.py)
 Day 12 | Binary_Tree_Preorder_Traversal | [Link](https://github.com/Subha822/Strivers_SDE_Sheet/blob/main/LeetCode/Easy/Binary_Tree_Preorder_Traversal.py)
 Day 13 | Binary_Tree_Postorder_Traversal | [Link](https://github.com/Subha822/Strivers_SDE_Sheet/blob/main/LeetCode/Easy/Binary_Tree_Postorder_Traversal.py)
+Day 14 | Assign_Cookies | [Link](https://github.com/Subha822/Strivers_SDE_Sheet/blob/main/LeetCode/Easy/Assign_Cookies.py)
