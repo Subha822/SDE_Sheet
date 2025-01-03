@@ -18,3 +18,4 @@ Day 13 | Binary_Tree_Postorder_Traversal | [Link](https://github.com/Subha822/St
 Day 14 | Assign_Cookies | [Link](https://github.com/Subha822/Strivers_SDE_Sheet/blob/main/LeetCode/Easy/Assign_Cookies.py)
 Day 15 | Maximum_Depth_of_Binary_Tree | [Link](https://github.com/Subha822/Strivers_SDE_Sheet/blob/main/LeetCode/Easy/Maximum_Depth_of_Binary_Tree.py)
 Day 16 | Binary_Tree_Maximum_Path_Sum | [Link](https://github.com/Subha822/Strivers_SDE_Sheet/blob/main/LeetCode/Hard/Binary_Tree_Maximum_Path_Sum.py)
+Day 17 | Reverse_Linked_List | [Link](https://github.com/Subha822/Strivers_SDE_Sheet/blob/main/LeetCode/Easy/Reverse_Linked_List.py)
