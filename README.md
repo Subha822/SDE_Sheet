@@ -20,3 +20,4 @@ Day 15 | Maximum_Depth_of_Binary_Tree | [Link](https://github.com/Subha822/Striv
 Day 16 | Binary_Tree_Maximum_Path_Sum | [Link](https://github.com/Subha822/Strivers_SDE_Sheet/blob/main/LeetCode/Hard/Binary_Tree_Maximum_Path_Sum.py)
 Day 17 | Reverse_Linked_List | [Link](https://github.com/Subha822/Strivers_SDE_Sheet/blob/main/LeetCode/Easy/Reverse_Linked_List.py)
 Day 18 | Middle_of_the_Linked_List | [Link](https://github.com/Subha822/Strivers_SDE_Sheet/blob/main/LeetCode/Easy/Middle_of_the_Linked_List.py)
+Day 19 | Remove_Duplicates_from_Sorted_Array | [Link](https://github.com/Subha822/Strivers_SDE_Sheet/blob/main/LeetCode/Easy/Remove_Duplicates_from_Sorted_Array.py)
