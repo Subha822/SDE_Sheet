@@ -22,3 +22,4 @@ Day 17 | Reverse_Linked_List | [Link](https://github.com/Subha822/Strivers_SDE_S
 Day 18 | Middle_of_the_Linked_List | [Link](https://github.com/Subha822/Strivers_SDE_Sheet/blob/main/LeetCode/Easy/Middle_of_the_Linked_List.py)
 Day 19 | Remove_Duplicates_from_Sorted_Array | [Link](https://github.com/Subha822/Strivers_SDE_Sheet/blob/main/LeetCode/Easy/Remove_Duplicates_from_Sorted_Array.py)
 Day 20 | Next_Greater_Element_I | [Link](https://github.com/Subha822/Strivers_SDE_Sheet/blob/main/LeetCode/Easy/Next_Greater_Element_I.py)
+Day 21 | Binary_Search | [Link](https://github.com/Subha822/Strivers_SDE_Sheet/blob/main/LeetCode/Easy/Binary_Search.py)
