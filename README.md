@@ -25,3 +25,4 @@ Day 20 | Next_Greater_Element_I | [Link](https://github.com/Subha822/Strivers_SD
 Day 21 | Binary_Search | [Link](https://github.com/Subha822/Strivers_SDE_Sheet/blob/main/LeetCode/Easy/Binary_Search.py)
 Day 22 | Top_K_Frequent_Elements | [Link](https://github.com/Subha822/Strivers_SDE_Sheet/blob/main/LeetCode/Medium/Top_K_Frequent_Elements.py)
 Day 23 | Majority_Element | [Link](https://github.com/Subha822/Strivers_SDE_Sheet/blob/main/LeetCode/Easy/Majority_Element.py)
+Day 24 | 4Sum | [Link](https://github.com/Subha822/Strivers_SDE_Sheet/blob/main/LeetCode/Medium/4Sum.py)
