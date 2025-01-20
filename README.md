@@ -28,3 +28,4 @@ Day 23 | Majority_Element | [Link](https://github.com/Subha822/Strivers_SDE_Shee
 Day 24 | 4Sum | [Link](https://github.com/Subha822/Strivers_SDE_Sheet/blob/main/LeetCode/Medium/4Sum.py)
 Day 25 | Max_Consecutive_Ones | [Link](https://github.com/Subha822/Strivers_SDE_Sheet/blob/main/LeetCode/Easy/Max_Consecutive_Ones.py)
 Day 26 | Squares_of_a_Sorted_Array | [Link](https://github.com/Subha822/Strivers_SDE_Sheet/blob/main/LeetCode/Easy/Squares_of_a_Sorted_Array.py)
+Day 27 | Two_Sum | [Link](https://github.com/Subha822/Strivers_SDE_Sheet/blob/main/LeetCode/Easy/Two_Sum.py)
