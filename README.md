@@ -31,3 +31,4 @@ Day 26 | Squares_of_a_Sorted_Array | [Link](https://github.com/Subha822/Strivers
 Day 27 | Two_Sum | [Link](https://github.com/Subha822/Strivers_SDE_Sheet/blob/main/LeetCode/Easy/Two_Sum.py)
 Day 28 | Palindrome_Number | [Link](https://github.com/Subha822/Strivers_SDE_Sheet/blob/main/LeetCode/Easy/Palindrome_Number.py)
 Day 29 | Map_Of_Highest_Peak | [Link](https://github.com/Subha822/Strivers_SDE_Sheet/blob/main/LeetCode/Medium/Map_Of_Highest_Peak.py)
+Day 30 | Count_Servers_That_Communicate | [Link](https://github.com/Subha822/Strivers_SDE_Sheet/blob/main/LeetCode/Medium/Count_Servers_That_Communicate.py)
