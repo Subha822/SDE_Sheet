@@ -1,4 +1,4 @@
-# Strivers_SDE_Sheet
+# SDE_Sheet
 
 DAY  | ProblemSolution | LINK
 ------------- | ------------- | -------------
