@@ -32,3 +32,4 @@ Day 27 | Two_Sum |$${\color{green}Easy}$$| [Link](https://github.com/Subha822/SD
 Day 28 | Palindrome_Number | $${\color{green}Easy}$$ |[Link](https://github.com/Subha822/SDE_Sheet/blob/main/LeetCode/Easy/Palindrome_Number.py)
 Day 29 | Map_Of_Highest_Peak | $${\color{orange}Medium }$$|[Link](https://github.com/Subha822/SDE_Sheet/blob/main/LeetCode/Medium/Map_Of_Highest_Peak.py)
 Day 30 | Count_Servers_That_Communicate |$${\color{orange}Medium }$$| [Link](https://github.com/Subha822/SDE_Sheet/blob/main/LeetCode/Medium/Count_Servers_That_Communicate.py)
+Day 31 | Find_Eventual_Safe_States |$${\color{orange}Medium }$$| [Link](https://github.com/Subha822/SDE_Sheet/blob/main/LeetCode/Medium/Find_Eventual_Safe_States.py)
