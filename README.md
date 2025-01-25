@@ -33,3 +33,4 @@ Day 28 | Palindrome_Number | $${\color{green}Easy}$$ |[Link](https://github.com/
 Day 29 | Map_Of_Highest_Peak | $${\color{orange}Medium }$$|[Link](https://github.com/Subha822/SDE_Sheet/blob/main/LeetCode/Medium/Map_Of_Highest_Peak.py)
 Day 30 | Count_Servers_That_Communicate |$${\color{orange}Medium }$$| [Link](https://github.com/Subha822/SDE_Sheet/blob/main/LeetCode/Medium/Count_Servers_That_Communicate.py)
 Day 31 | Find_Eventual_Safe_States |$${\color{orange}Medium }$$| [Link](https://github.com/Subha822/SDE_Sheet/blob/main/LeetCode/Medium/Find_Eventual_Safe_States.py)
+Day 32 | Make_Lexicographically_Smallest_Array_By_Swapping_Elements |$${\color{orange}Medium }$$| [Link](https://github.com/Subha822/SDE_Sheet/blob/main/LeetCode/Medium/Make_Lexicographically_Smallest_Array_By_Swapping_Elements.py)
