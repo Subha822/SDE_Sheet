@@ -34,3 +34,4 @@ Day 29 | Map_Of_Highest_Peak | $${\color{orange}Medium }$$|[Link](https://github
 Day 30 | Count_Servers_That_Communicate |$${\color{orange}Medium }$$| [Link](https://github.com/Subha822/SDE_Sheet/blob/main/LeetCode/Medium/Count_Servers_That_Communicate.py)
 Day 31 | Find_Eventual_Safe_States |$${\color{orange}Medium }$$| [Link](https://github.com/Subha822/SDE_Sheet/blob/main/LeetCode/Medium/Find_Eventual_Safe_States.py)
 Day 32 | Make_Lexicographically_Smallest_Array_By_Swapping_Elements |$${\color{orange}Medium }$$| [Link](https://github.com/Subha822/SDE_Sheet/blob/main/LeetCode/Medium/Make_Lexicographically_Smallest_Array_By_Swapping_Elements.py)
+Day 33 | Maximum_Employees_To_Be_Invited_To_A_Meeting | $${\color{red}Hard}$$  |[Link](https://github.com/Subha822/SDE_Sheet/blob/main/LeetCode/Hard/Maximum_Employees_To_Be_Invited_To_A_Meeting.py)
